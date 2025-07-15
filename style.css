@@ -89,18 +89,3 @@ footer {
 }
 
 /* --- Profile Photo Style (Corrected) --- */
-.profile-photo {
-    display: block;
-    width: 150px;       /* Sets the width of the circle */
-    height: 150px;      /* Sets the height of the circle */
-    border-radius: 50%; /* This makes the shape a circle */
-    
-    /* This is the key fix for alignment */
-    object-fit: cover;  /* Prevents the image from squishing and crops it to fit */
-
-    /* This centers the photo and adds space between it and your name */
-    margin: 0 auto 20px auto; 
-
-    /* This makes the border black to blend with the background */
-    border: 3px solid #000000; 
-}
