@@ -91,7 +91,34 @@
     }
   ],
   "references": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "ADAPT: Adaptive Driver Behaviour Modelling for Autonomous Driving Systems",
+      "publisher": "In Preparation",
+      "releaseDate": "2025-12-01",
+      "website": "",
+      "status": "Manuscript in Preparation",
+      "summary": "A transformer-based architecture for autonomous driving agent behavior modeling using multi-modal fusion and hierarchical attention mechanisms for explainable anomaly detection. Supervised by Prof. Snehanshu Saha and Prof. Santonu Sarkar at APPCAIR."
+    }
+  ],
+  "research": [
+    {
+      "title": "ADAPT: Adaptive Driver Behaviour Modelling",
+      "institution": "APPCAIR, Goa, India",
+      "startDate": "2024-10-01",
+      "endDate": "Present",
+      "supervisors": ["Prof. Snehanshu Saha", "Prof. Santonu Sarkar"],
+      "description": "Proposed and leading development of an autonomous driving agent architecture using the NavSim framework. Designing a transformer-based architecture that fuses multi-modal inputs including kinematic and camera data using hierarchical attention mechanisms to detect and quantify anomalous driving in an explainable way. Creating a novel dataset to benchmark anomaly detection models in the CARLA simulator."
+    },
+    {
+      "title": "nDNA: A Geometric Framework for Tracing the Latent Genome of AI",
+      "institution": "Pragya.ai, Goa, India", 
+      "startDate": "2025-07-01",
+      "endDate": "Present",
+      "supervisors": ["Dr. Amitava Das"],
+      "description": "Analyzing the latent geometry of AI models (LLMs, VLMs, Diffusion Models etc.) through Neural Genomics, a paradigm that treats them as semantic organisms with traceable inner cognition instead of black-box tools. Applying Neural DNA (nDNA), a novel diagnostic framework that integrates Riemannian geometry and statistical thermodynamics to quantify a model's internal belief structures and epistemic traits."
+    }
+  ],
   "presentations": [],
   "teaching": [
     {
@@ -100,6 +127,23 @@
       "date": "2024-01-01",
       "role": "Teaching Assistant",
       "description": "Designed and conducted tutorials and homework assignments on deep learning concepts for undergraduate and graduate students and evaluated student submissions."
+    },
+    {
+      "course": "CS F437 Generative AI",
+      "institution": "BITS Pilani, Goa",
+      "date": "2025-08-01", 
+      "role": "Teaching Assistant",
+      "description": "Supporting undergraduate and graduate students in understanding cutting-edge generative AI technologies including GANs, VAEs, Diffusion Models, LLMs, and Vision-Language Models. Designing tutorials and assignments covering theoretical concepts and practical implementations."
+    }
+  ],
+  "activities": [
+    {
+      "organization": "IndoML 2024",
+      "position": "Undergraduate Volunteer",
+      "startDate": "2024-12-01",
+      "endDate": "2024-12-31",
+      "location": "Goa, India",
+      "description": "Co-organized the AI symposium, ensuring the seamless execution of lectures and Q&A sessions. Oversaw logistical arrangements for guest accommodations and overall event coordination."
     }
   ],
   "portfolio": [
