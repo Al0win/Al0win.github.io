@@ -7,44 +7,61 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I'm Alankrit Singh, a Computer Science undergraduate at BITS Pilani, Goa, with a passion for artificial intelligence, machine learning, and autonomous systems.
+Welcome to my academic website! I'm Alankrit Singh, a Computer Science undergraduate at BITS Pilani, Goa, with a deep passion for artificial intelligence, machine learning, and autonomous systems. I'm actively seeking opportunities to advance my research and academic journey.
 
 ## About Me
 
-I'm currently pursuing my Bachelor of Engineering in Computer Science at Birla Institute of Technology and Science (BITS Pilani), Goa Campus (October 2022 - May 2026). My research interests lie at the intersection of AI and real-world applications, with a particular focus on autonomous driving systems and understanding the internal workings of AI models.
+I'm currently in my final year pursuing a Bachelor of Engineering in Computer Science at Birla Institute of Technology and Science (BITS Pilani), Goa Campus (October 2022 - May 2026). My research interests lie at the fascinating intersection of AI and real-world applications, with particular expertise in autonomous driving systems, neural genomics, and multimodal AI architectures.
+
+**🎓 Seeking Thesis Advisors**: I am actively looking for potential thesis advisors for my bachelor's thesis project. My research interests include autonomous systems, transformer architectures, explainable AI, and neural model interpretability. If you're working in related areas and interested in collaboration, I'd love to connect!
 
 ## Current Research
 
 **ADAPT: Adaptive Driver Behaviour Modelling** (October 2024 - Present)
 - Supervised by Prof. Snehanshu Saha and Prof. Santonu Sarkar at APPCAIR
-- Developing an autonomous driving agent architecture using the NavSim framework
-- Designing transformer-based architectures that fuse multi-modal inputs for anomaly detection in driving behavior
+- Leading development of an autonomous driving agent architecture using the NavSim framework
+- Designing transformer-based architectures that fuse multi-modal inputs (kinematic and camera data) through hierarchical attention mechanisms
 - Creating novel datasets for benchmarking anomaly detection models in CARLA simulator
+- Focus on explainable anomaly detection in autonomous driving scenarios
 
 **nDNA: A Geometric Framework for Tracing the Latent Genome of AI** (July 2025 - Present)
 - Supervised by Dr. Amitava Das at Pragya.ai
-- Analyzing latent geometry of AI models through Neural Genomics paradigm
-- Applying Neural DNA (nDNA) framework integrating Riemannian geometry and statistical thermodynamics
+- Pioneering research in Neural Genomics - treating AI models as semantic organisms with traceable inner cognition
+- Applying Neural DNA (nDNA) framework that integrates Riemannian geometry and statistical thermodynamics
+- Quantifying AI models' internal belief structures and epistemic traits across LLMs, VLMs, and Diffusion Models
 
-## Experience
+## Professional Experience
 
-I've gained practical industry experience as a **Data Engineer Intern** at Digital India Bhashini Division (May 2024 - July 2024), where I contributed to intelligent data pipeline projects for scalable GenAI-ready NLP data processing and migrated infrastructure from Google Cloud to Azure.
+**Data Engineer Intern** | Digital India Bhashini Division (May 2024 - July 2024)
+- Contributed to the Intelligent Data Pipeline project for scalable GenAI-ready NLP data processing
+- Successfully migrated pipeline infrastructure from Google Cloud to Azure
+- Enabled efficient dataset curation for large language model training pipelines
 
-## Academic Involvement
+## Academic Leadership & Teaching
 
-Currently serving as a **Teaching Assistant** for CS F425 Deep Learning at BITS Pilani, where I design tutorials and homework assignments for undergraduate and graduate students. I also volunteered at IndoML 2024, co-organizing the AI symposium in Goa.
+**Teaching Assistant** | BITS Pilani, Goa
+- **CS F425 Deep Learning** (January 2024 - Present): Design comprehensive tutorials and assignments on deep learning concepts for undergraduate and graduate students
+- **CS F437 Generative AI** (Fall 2025): Supporting students in understanding cutting-edge generative AI technologies including GANs, VAEs, Diffusion Models, and LLMs
 
-## Technical Skills
+**Event Organization**: Undergraduate Volunteer at IndoML 2024, where I co-organized the AI symposium in Goa, managing logistics and ensuring seamless execution of technical sessions.
+
+## Research Impact & Vision
+
+My work bridges theoretical AI research with practical applications, focusing on making AI systems more interpretable, reliable, and effective in real-world scenarios. I'm particularly interested in:
+- **Explainable AI**: Making complex AI systems more transparent and trustworthy
+- **Autonomous Systems**: Developing robust and safe AI for autonomous vehicles
+- **Neural Model Understanding**: Unveiling the inner workings of large-scale AI models
+- **Multimodal AI**: Creating systems that understand and generate across different modalities
+
+## Technical Expertise
 
 - **Programming**: Python, LaTeX
-- **ML/AI Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers, Scikit-Learn, LangChain
-- **Specialized Areas**: Computer Vision, NLP, Multimodal AI, Vector Databases, Retrieval Augmented Generation
+- **ML/AI Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers, Scikit-Learn, LangChain, FAISS
+- **Specialized Skills**: Computer Vision, NLP, Multimodal AI, Vector Databases, Retrieval Augmented Generation, Transformer Architectures
+- **Research Tools**: CARLA Simulator, NavSim Framework, Riemannian Geometry, Statistical Thermodynamics
 
-Feel free to explore my [projects](/portfolio/), [CV](/cv/), and connect with me through the links in the sidebar! 
+## Let's Connect!
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+I'm always excited to discuss research opportunities, collaborate on projects, or connect with fellow researchers and industry professionals. Feel free to explore my [research publications](/publications/), [teaching experiences](/teaching/), and [project portfolio](/portfolio/).
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Contact me** through the links in the sidebar if you're interested in collaboration, have research opportunities, or would like to discuss potential thesis supervision!
