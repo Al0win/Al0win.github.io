@@ -22,7 +22,7 @@ repository               : "Al0win/Al0win.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.png"
+  avatar           : "bio-photo.jpg"
   name             : "Alankrit Singh"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science student at BITS Pilani, Goa. Research interests in AI, Machine Learning, and Autonomous Systems."
