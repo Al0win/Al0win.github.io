@@ -8,7 +8,6 @@ date: 2025-08-01
 location: "Goa, India"
 ---
 
-## Teaching Assistant - CS F437 Generative AI
 
 **Fall 2025**
 

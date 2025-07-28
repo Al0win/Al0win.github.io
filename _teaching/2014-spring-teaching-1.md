@@ -2,15 +2,13 @@
 title: "CS F425 Deep Learning - Teaching Assistant"
 collection: teaching
 type: "Undergraduate/Graduate course"
-permalink: /teaching/2024-spring-deep-learning-ta
+permalink: /teaching/2025-spring-deep-learning-ta
 venue: "BITS Pilani, Goa Campus, Department of Computer Science"
-date: 2024-01-01
+date: 2025-01-01
 location: "Goa, India"
 ---
 
-## Teaching Assistant - CS F425 Deep Learning
-
-**January 2024 - Present**
+**Spring 2025**
 
 As a Teaching Assistant for the Deep Learning course at BITS Pilani, Goa, I have been responsible for supporting both undergraduate and graduate students in understanding complex deep learning concepts and applications.
 
