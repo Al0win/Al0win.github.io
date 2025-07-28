@@ -58,7 +58,6 @@ My work bridges theoretical AI research with practical applications, focusing on
 - **Programming**: Python, LaTeX
 - **ML/AI Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers, Scikit-Learn, LangChain, FAISS
 - **Specialized Skills**: Computer Vision, NLP, Multimodal AI, Vector Databases, Retrieval Augmented Generation, Transformer Architectures
-- **Research Tools**: CARLA Simulator, NavSim Framework, Riemannian Geometry, Statistical Thermodynamics
 
 ## Let's Connect!
 
