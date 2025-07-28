@@ -11,9 +11,9 @@ location: "Goa, India"
 
 **Fall 2025**
 
-As a Teaching Assistant for the Generative AI course at BITS Pilani, Goa, I support both undergraduate and graduate students in understanding cutting-edge generative AI technologies and their applications across various domains.
+As a Teaching Assistant for the Generative AI course at BITS Pilani, Goa, I support both undergraduate and graduate students in understanding cutting-edge generative AI technologies and their applications across various domains. 
 
-### Responsibilities:
+<!-- ### Responsibilities:
 
 **Tutorial Design and Delivery**
 - Design comprehensive tutorials covering fundamental and advanced generative AI concepts
@@ -59,4 +59,4 @@ This teaching experience enhances my expertise in cutting-edge generative AI tec
 - **Research Mentorship**: Guiding students through novel generative AI research projects
 - **Creative Problem Solving**: Encouraging innovative applications of generative technologies
 - **Interdisciplinary Teaching**: Connecting AI with art, science, and other domains
-- **Ethical AI Awareness**: Teaching responsible development and deployment of generative systems
+- **Ethical AI Awareness**: Teaching responsible development and deployment of generative systems -->

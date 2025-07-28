@@ -26,7 +26,7 @@ As a Teaching Assistant for the Deep Learning course at BITS Pilani, Goa, I have
 
 **Student Support**
 - Provided one-on-one guidance to students struggling with complex concepts
-- Held regular office hours for doubt clarification and project guidance
+- Held regular tutorials for teaching the programming aspects of Deep Learning
 - Assisted students with implementation challenges in their deep learning projects
 
 ### Topics Covered:
@@ -40,9 +40,3 @@ As a Teaching Assistant for the Deep Learning course at BITS Pilani, Goa, I have
 
 ### Impact:
 This teaching experience has enhanced my understanding of deep learning concepts while developing my ability to communicate complex technical ideas effectively. Working with diverse student backgrounds has improved my adaptability in teaching methodologies.
-
-### Skills Developed:
-- **Pedagogical Skills**: Course design, tutorial delivery, student assessment
-- **Communication**: Explaining complex concepts clearly and effectively
-- **Technical Expertise**: Deepened understanding of deep learning through teaching
-- **Mentorship**: Guiding students through challenging technical projects
