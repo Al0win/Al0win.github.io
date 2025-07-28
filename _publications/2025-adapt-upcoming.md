@@ -8,7 +8,7 @@ date: 2025-12-01
 venue: 'Upcoming Publication'
 status: 'In Preparation'
 paperurl: ''
-citation: 'Singh, A., Saha, S., & Sarkar, S. (2025). &quot;ADAPT: Adaptive Driver Behaviour Modelling for Autonomous Driving Systems.&quot; <i>In Preparation</i>.'
+# citation: 'Singh, A., Saha, S., & Sarkar, S. (2025). &quot;ADAPT: Adaptive Driver Behaviour Modelling for Autonomous Driving Systems.&quot; <i>In Preparation</i>.'
 ---
 
 ## ADAPT: Adaptive Driver Behaviour Modelling for Autonomous Driving Systems
