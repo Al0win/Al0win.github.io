@@ -11,9 +11,9 @@ Welcome to my academic website! I'm Alankrit Singh, a Computer Science undergrad
 
 ## About Me
 
-I'm currently in my final year pursuing a Bachelor of Engineering in Computer Science at Birla Institute of Technology and Science (BITS Pilani), Goa Campus (October 2022 - May 2026). My research interests lie at the fascinating intersection of AI and real-world applications, with particular expertise in autonomous driving systems, neural genomics, and multimodal AI architectures.
+I'm currently in my final year pursuing a Bachelor of Engineering in Computer Science at Birla Institute of Technology and Science (BITS Pilani), Goa Campus (October 2022 - May 2026). My research interests lie at the fascinating intersection of AI and real-world applications as well as designing novel deep learning architectures.
 
-**🎓 Seeking Thesis Advisors**: I am actively looking for potential thesis advisors for my bachelor's thesis project. My research interests include autonomous systems, transformer architectures, explainable AI, and neural model interpretability. If you're working in related areas and interested in collaboration, I'd love to connect!
+**Seeking Thesis Advisors**: I am actively looking for potential thesis advisors for my bachelor's thesis project. I'm interested largely in projects involving generative modelling. If you're working in related areas and interested in collaboration, I'd love to connect!
 
 ## Current Research
 
@@ -40,24 +40,15 @@ I'm currently in my final year pursuing a Bachelor of Engineering in Computer Sc
 ## Academic Leadership & Teaching
 
 **Teaching Assistant** | BITS Pilani, Goa
-- **CS F425 Deep Learning** (January 2024 - Present): Design comprehensive tutorials and assignments on deep learning concepts for undergraduate and graduate students
+- **CS F425 Deep Learning** (January 2024 - Present): Designed comprehensive tutorials and assignments on deep learning concepts for undergraduate and graduate students
 - **CS F437 Generative AI** (Fall 2025): Supporting students in understanding cutting-edge generative AI technologies including GANs, VAEs, Diffusion Models, and LLMs
 
 **Event Organization**: Undergraduate Volunteer at IndoML 2024, where I co-organized the AI symposium in Goa, managing logistics and ensuring seamless execution of technical sessions.
-
-## Research Impact & Vision
-
-My work bridges theoretical AI research with practical applications, focusing on making AI systems more interpretable, reliable, and effective in real-world scenarios. I'm particularly interested in:
-- **Explainable AI**: Making complex AI systems more transparent and trustworthy
-- **Autonomous Systems**: Developing robust and safe AI for autonomous vehicles
-- **Neural Model Understanding**: Unveiling the inner workings of large-scale AI models
-- **Multimodal AI**: Creating systems that understand and generate across different modalities
 
 ## Technical Expertise
 
 - **Programming**: Python, LaTeX
 - **ML/AI Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers, Scikit-Learn, LangChain, FAISS
-- **Specialized Skills**: Computer Vision, NLP, Multimodal AI, Vector Databases, Retrieval Augmented Generation, Transformer Architectures
 
 ## Let's Connect!
 
