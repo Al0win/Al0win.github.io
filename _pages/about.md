@@ -30,20 +30,6 @@ I'm currently in my final year pursuing a Bachelor of Engineering in Computer Sc
 - Applying Neural DNA (nDNA) framework that integrates Riemannian geometry and statistical thermodynamics
 - Quantifying AI models' internal belief structures and epistemic traits across LLMs, VLMs, and Diffusion Models
 
-## Professional Experience
-
-**Data Engineer Intern** | Digital India Bhashini Division (May 2024 - July 2024)
-- Contributed to the Intelligent Data Pipeline project for scalable GenAI-ready NLP data processing
-- Successfully migrated pipeline infrastructure from Google Cloud to Azure
-- Enabled efficient dataset curation for large language model training pipelines
-
-## Academic Leadership & Teaching
-
-**Teaching Assistant** | BITS Pilani, Goa
-- **CS F425 Deep Learning** (January 2024 - Present): Designed comprehensive tutorials and assignments on deep learning concepts for undergraduate and graduate students
-- **CS F437 Generative AI** (Fall 2025): Supporting students in understanding cutting-edge generative AI technologies including GANs, VAEs, Diffusion Models, and LLMs
-
-**Event Organization**: Undergraduate Volunteer at IndoML 2024, where I co-organized the AI symposium in Goa, managing logistics and ensuring seamless execution of technical sessions.
 
 ## Technical Expertise
 
