@@ -1,20 +1,50 @@
 ---
-title: "Teaching experience 1"
+title: "CS F425 Deep Learning - Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate/Graduate course"
+permalink: /teaching/2024-spring-deep-learning-ta
+venue: "BITS Pilani, Goa Campus, Department of Computer Science"
+date: 2024-01-01
+location: "Goa, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Teaching Assistant - CS F425 Deep Learning
 
-Heading 1
-======
+**January 2024 - Present**
 
-Heading 2
-======
+As a Teaching Assistant for the Deep Learning course at BITS Pilani, Goa, I have been responsible for supporting both undergraduate and graduate students in understanding complex deep learning concepts and applications.
 
-Heading 3
-======
+### Responsibilities:
+
+**Tutorial Design and Delivery**
+- Designed comprehensive tutorials covering fundamental and advanced deep learning topics
+- Conducted interactive tutorial sessions to reinforce lecture concepts
+- Developed practical coding exercises using popular frameworks like PyTorch and TensorFlow
+
+**Assignment Creation and Evaluation**
+- Created challenging homework assignments that bridge theory and practice
+- Designed programming assignments covering various deep learning architectures
+- Evaluated student submissions and provided detailed feedback for improvement
+
+**Student Support**
+- Provided one-on-one guidance to students struggling with complex concepts
+- Held regular office hours for doubt clarification and project guidance
+- Assisted students with implementation challenges in their deep learning projects
+
+### Topics Covered:
+- Neural Network Fundamentals
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks (RNNs) and LSTMs
+- Transformer Architectures
+- Generative Adversarial Networks (GANs)
+- Regularization Techniques and Optimization
+- Advanced Topics in Computer Vision and NLP
+
+### Impact:
+This teaching experience has enhanced my understanding of deep learning concepts while developing my ability to communicate complex technical ideas effectively. Working with diverse student backgrounds has improved my adaptability in teaching methodologies.
+
+### Skills Developed:
+- **Pedagogical Skills**: Course design, tutorial delivery, student assessment
+- **Communication**: Explaining complex concepts clearly and effectively
+- **Technical Expertise**: Deepened understanding of deep learning through teaching
+- **Mentorship**: Guiding students through challenging technical projects

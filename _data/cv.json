@@ -1,152 +1,128 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Alankrit Singh",
+    "email": "f20221186@goa.bits-pilani.ac.in",
+    "phone": "+91 8510852910",
+    "website": "https://Al0win.github.io",
+    "summary": "Computer Science undergraduate at BITS Pilani, Goa, with research interests in AI, Machine Learning, and Autonomous Systems. Currently working on autonomous driving behavior modeling and neural genomics of AI models.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Goa",
+      "countryCode": "IN",
+      "region": "India"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "alankrit-singh",
+        "url": "https://linkedin.com/in/alankrit-singh"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Al0win",
+        "url": "https://github.com/Al0win"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Digital India Bhashini Division",
+      "position": "Data Engineer Intern",
+      "website": "",
+      "startDate": "2024-05-01",
+      "endDate": "2024-07-31",
+      "summary": "Contributed to the Intelligent Data Pipeline project for scalable GenAI-ready NLP data processing. Migrated pipeline infrastructure from Google Cloud to Azure, enabling dataset curation for LLM training.",
+      "highlights": [
+        "Migrated pipeline infrastructure from Google Cloud to Azure",
+        "Enabled dataset curation for LLM training",
+        "Worked on scalable GenAI-ready NLP data processing"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "area": "Bachelor of Engineering in Computer Science",
+      "studyType": "B.E.",
+      "startDate": "2022-10-01",
+      "endDate": "2026-05-31",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": [
+        "Reinforcement Learning",
+        "Generative AI*",
+        "Natural Language Processing*",
+        "Machine Learning",
+        "Computer Programming",
+        "Logic in CS",
+        "Theory of Computation*",
+        "Object-Oriented Programming"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "LaTeX"]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "keywords": ["PyTorch", "TensorFlow", "Hugging Face Transformers", "Scikit-Learn", "LangChain"]
+    },
+    {
+      "name": "Specialized Skills",
+      "keywords": ["Computer Vision", "NLP", "Multimodal AI", "Vector Databases", "Retrieval Augmented Generation", "FAISS"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": ["Autonomous Driving", "Neural Genomics", "Anomaly Detection", "Transformer Architectures"]
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "CS F425 Deep Learning",
+      "institution": "BITS Pilani, Goa",
+      "date": "2024-01-01",
+      "role": "Teaching Assistant",
+      "description": "Designed and conducted tutorials and homework assignments on deep learning concepts for undergraduate and graduate students and evaluated student submissions."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "LLMExam: AI-Driven Question Paper Generation",
       "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "date": "2025-01-01",
+      "url": "https://github.com/Al0win",
+      "description": "Developed a multimodal system using a local VLM (Qwen2.5-VL) to automatically extract textual questions, diagrams, and graphs from PDFs. Employed vector search for topic-based retrieval and designed an LLM-driven topic tagging mechanism for precise question classification."
+    },
+    {
+      "name": "Zero-Shot Learning using RoBERTa",
+      "category": "portfolio", 
+      "date": "2024-09-01",
+      "url": "https://github.com/Al0win",
+      "description": "Enhanced classification accuracy by iteratively optimizing label prompts using generative language models (Gemma2-9B, Qwen2.5-32B, and Nemotron-70B). Improved performance metrics, achieving a significant increase in accuracy from 48.5% to 82.13% with Nemotron-70B."
+    },
+    {
+      "name": "MonetAI: Generating Artistic Images using GANs",
+      "category": "portfolio",
+      "date": "2024-09-01", 
+      "url": "https://github.com/Al0win",
+      "description": "Developed a generative model replicating Claude Monet's artistic style using CycleGANs."
     }
   ]
 }
