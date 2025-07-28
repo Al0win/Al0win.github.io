@@ -35,4 +35,4 @@ This project demonstrates how AI can learn and reproduce artistic styles, openin
 ### Results:
 The model successfully generates convincing Monet-style artwork from input photographs, capturing the essence of impressionistic painting while maintaining the recognizable content of the original images.
 
-[GitHub Repository](https://github.com/Al0win)
+[GitHub Repository](https://github.com/Al0win/MonetAI)

@@ -25,4 +25,4 @@ This project involved developing a sophisticated multimodal system for automated
 ### Impact:
 This system can significantly reduce the time and effort required for educators to create comprehensive question papers while ensuring proper categorization and coverage of topics.
 
-[GitHub Repository](https://github.com/Al0win) | [Project Report](https://github.com/Al0win) 
+[GitHub Repository](https://github.com/LLMExam/LLMExam) | [Project Report](https://github.com/LLMExam/LLMExam/blob/main/LLM_based_Examination_System_Automation.pdf) 
